@@ -6,33 +6,58 @@ Overview
 This assignment focuses on performing basic list operations in Python. You will learn how to create a list, manipulate its contents using various methods, and explore Python’s list functionalities such as appending, inserting, extending, removing, sorting, and finding an index.
 
 Steps Performed
+
 Create an Empty List:
+
 An empty list named my_list was initialized.
+
 Append Elements:
+
 The values 10, 20, 30, and 40 were added to the list using the append() method.
+
 Insert an Element:
+
 The value 15 was inserted at the second position (index 1) using the insert() method.
+
 Extend the List:
+
 The list was extended with the elements [50, 60, 70] using the extend() method.
+
 Remove the Last Element:
+
 The last element in the list was removed using the pop() method.
+
 Sort the List:
+
 The list was sorted in ascending order using the sort() method.
+
 Find the Index of a Value:
+
 The index of the value 30 was found using the index() method and printed to the console.
-Final Output
+
+Final Output:
+
 After performing all the operations, the list contents were:
 
+
 [10, 15, 20, 30, 40, 50, 60]
+
 The index of the value 30 was:
+
 3
 Usage Instructions
+
 Copy the Python code provided below into a Python file (e.g., list_assignment.py).
+
 Run the file in a Python environment or interpreter.
+
 Observe the printed output for the index of the value 30.
+
 Python Code
+
 python
-Copy code
+
+
 # Step 1: Create an empty list called my_list
 my_list = []
 
