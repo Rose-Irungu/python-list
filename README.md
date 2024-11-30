@@ -1,6 +1,8 @@
 # python-list
 List Manipulation Assignment
+
 Overview
+
 This assignment focuses on performing basic list operations in Python. You will learn how to create a list, manipulate its contents using various methods, and explore Python’s list functionalities such as appending, inserting, extending, removing, sorting, and finding an index.
 
 Steps Performed
@@ -59,4 +61,6 @@ Key Learning Outcomes
 Mastering list operations like append, insert, and extend.
 Understanding how to manipulate list elements using pop and sort.
 Using the index() method to locate a specific element within a list.
+
+
 Happy coding.😊😊
